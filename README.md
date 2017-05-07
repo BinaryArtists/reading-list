@@ -1,5 +1,11 @@
 下面是一些我读过的书。
 
+* [开放的读书列表](https://github.com/BinaryArtists/reading-list/blob/master/gdfan-README.md)
+* [阮一峰的读书列表- still updating?](https://github.com/ruanyf/reading-list)
+* [读书笔记](https://github.com/BinaryArtists/reading-list/blob/master/reading.md)
+* [读博客笔记](https://github.com/BinaryArtists/reading-list/blob/master/READBLOG.md)
+* [学习古人](https://github.com/BinaryArtists/reading-list/blob/master/%E5%8F%A4%E8%AF%AD-%E6%98%8E%E5%93%B2%E6%80%9D%E8%BF%9C.md)
+
 （注：:+1: 表示推荐，:-1: 表示差评）
 
 ## 索引
